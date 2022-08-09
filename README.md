@@ -8,4 +8,6 @@ As an employee with a busy schedule I want to add important events to a daily pl
 * Block colors update relative to the current hour to show if they are in the past present or future
 * Stores input in local storage so it persists between reloads
 
+https://nickmagarian.github.io/Work_Day_Scheduler/
+
 ![Screenshot](./assets/images/download.png)
